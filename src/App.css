@@ -1,0 +1,56 @@
+.app {
+  transition: background-color 0.9s ease;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+.ant-float-btn {
+  width: 65px !important;
+  height: 60px !important;
+  box-shadow: -3px 6px 38px 6px rgba(0, 0, 0, 0.2);
+  background-color: transparent !important;
+}
+.ant-float-btn-icon {
+  font-size: 30px !important;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: dodgerblue !important;
+  width: auto !important;
+}
+
+.ant-float-btn-body {
+  border-radius: 50px !important;
+  height: 50px !important;
+  width: 50px !important;
+  padding: 10px !important;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ant-float-btn-body {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+
+.ant-float-btn-content {
+  padding: 10px 4px !important;
+}
+.ant-float-btn-description {
+  color: dodgerblue !important;
+}
+.ant-float-btn-group-wrap {
+  box-shadow: none !important;
+}
+.ant-image {
+  display: inline !important;
+}
