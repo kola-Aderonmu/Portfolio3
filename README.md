@@ -21,8 +21,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 
 ## Projects
 
-- **Project 1**: Description of project 1 with a [link](https://github.com/kola-Aderonmu/project1)
-- **Project 2**: Description of project 2 with a [link](https://github.com/kola-Aderonmu/project2)
-- **Project 3**: Description of project 3 with a [link](https://github.com/kola-Aderonmu/project3)
+- **All Projects can be found at :[link](https://github.com/kola-Aderonmu/project1)
+
 
 
